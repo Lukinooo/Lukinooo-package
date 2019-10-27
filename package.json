@@ -1,6 +1,6 @@
 {
   "name": "lukinooo-module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My first module",
   "main": "index.js",
   "directories": {
@@ -12,6 +12,7 @@
   "author": "Lukinooo",
   "license": "ISC",
   "dependencies": {
+    "firstmodule": "git+https://github.com/MatejHor/MatejHor-package.git",
     "mocha": "^6.2.1"
   }
 }
