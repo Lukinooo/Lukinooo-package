@@ -1,0 +1,17 @@
+{
+  "name": "lukinooo-module",
+  "version": "1.0.0",
+  "description": "My first module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --color test/introspect.spec.js"
+  },
+  "author": "Lukinooo",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.1"
+  }
+}
