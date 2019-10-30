@@ -12,7 +12,9 @@
   "author": "Lukinooo",
   "license": "ISC",
   "dependencies": {
-    "firstmodule": "git+https://github.com/MatejHor/MatejHor-package.git",
+    "firstmodule": "git+https://github.com/MatejHor/MatejHor-package.git"
+  }
+  "devDependencies": {
     "mocha": "^6.2.1"
   }
 }
